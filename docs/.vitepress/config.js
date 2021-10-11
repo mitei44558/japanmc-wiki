@@ -2,11 +2,11 @@
  * @type {import('vitepress/types').UserConfig}
  */
 module.exports = {
-  title: 'JapanMC Wiki (非公式)',
-  description: 'Japan MCの非公式Wikiです',
+  title: 'JapanMC Wiki (公式)',
+  description: 'Japan MCの公式Wikiです',
   lang: 'ja-jp',
   themeConfig: {
-    repo: 'tsutoringo/japanmc-wiki',
+    repo: 'japan-mc/japanmc-wiki',
     docsDir: 'docs',
     editLinks: true,
     editLinkText: 'このページをGitHubで編集する',
