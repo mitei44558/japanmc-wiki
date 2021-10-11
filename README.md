@@ -7,4 +7,4 @@ JapanMC Wikiのレポジトリへようこそ
 Issue立ててくだされば対応します
 
 ## 貢献する
-[貢献の仕方](https://japanmc-wiki.netlify.app/how-to-contribute.html)を参考にお願いします！
+[貢献の仕方](https://japanmc-wiki.netlify.app/how-to/contribute.html)を参考にお願いします！
