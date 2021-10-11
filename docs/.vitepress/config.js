@@ -6,7 +6,7 @@ module.exports = {
   description: 'Japan MCの非公式Wikiです',
   lang: 'ja-jp',
   themeConfig: {
-    repo: 'tsutoringo/japanmc-wiki',
+    repo: 'japan-mc/japanmc-wiki',
     docsDir: 'docs',
     editLinks: true,
     editLinkText: 'このページをGitHubで編集する',
