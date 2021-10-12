@@ -11,7 +11,10 @@ module.exports = {
     editLinks: true,
     editLinkText: 'このページをGitHubで編集する',
     lastUpdated: '最終更新日',
-    nav: []
+    nav: [
+      { text: 'トップ', link: '/' },
+      { text: '初心者指南', link: '/guides/first.html' }
+    ],
   },
   markdown: {
     config: (md) => {
