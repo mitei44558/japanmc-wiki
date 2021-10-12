@@ -18,6 +18,7 @@ GitHubでpull requestを送信してください！
 
 ## 目次
 ### ガイド
+- [初心者指南](/guides/first)
 - [MCMMO(スキル)](/guides/mcmmo.md)
 - [Towny(街・国家管理)](/guides/towny.md)
 - [Shop(アイテム売買)](/guides/shop.md)
