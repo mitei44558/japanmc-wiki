@@ -21,3 +21,9 @@ title: ユーザーショップ
 `/qs buy`　ショップを買い取りに変更します。  
 `/qs sell`　ショップを販売に変更します。  
 `/qs price [price]`　ショップの価格を[price]に変更します。
+`/qs price [price]`　ショップの価格を[price]に変更します。
+`/qs setowner <player>`　ショップの所有者を変更します。
+`/qs staff add <player>`　 プレイヤーをスタッフとしてショップに追加します。
+`/qs staff del <player>`　プレイヤーをスタッフとしてショップから削除します。
+`/qs staff clear`　すべてのスタッフをショップから削除します。
+`/qs staff list`　ショップの現在のスタッフメンバーをすべて表示します。
