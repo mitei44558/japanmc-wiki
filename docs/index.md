@@ -23,3 +23,6 @@ GitHubでpull requestを送信してください！
 - [Towny(街・国家管理)](/guides/towny.md)
 - [Shop(アイテム売買)](/guides/shop.md)
 - [ユーザーショップ(ユーザー間アイテム売買)](/guides/user-shop.md)
+
+### その他
+- [国一覧](/nation/index.md)
