@@ -11,6 +11,10 @@ JapanMCへの初回ログイン時にDiscordとマインクラフトアカウン
 3. DMにて`あなたのDiscordアカウントは、XXXXXX (XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)とリンクしました`とメッセージが返ってくることを確認する
 4. 再度JapanMCへログインする
 
+:::warning BOTにメッセージを送信できない場合
+[サーバーへの入り方#BOTにメッセージが送信できない](/how-to/join.html#bot%E3%81%AB%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%8C%E9%80%81%E4%BF%A1%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84)を試してみてください。
+:::
+
 ## コマンド
 ### 他人にお金を払う
 `/money pay <プレイヤー名> <金額>` と入力すると個人に送金することができます。
