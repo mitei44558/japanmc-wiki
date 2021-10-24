@@ -3,9 +3,10 @@
 ## 詳細
 |||
 |-|-|
-|  人口  | 確認中   |
+|  人口  | 18人   |
 |  首都  | KURIMOCHI|
-|  国土面積 | 26チャンク|
+|  国土面積 | 70チャンク|
+|  同盟国 | hokkaido,setonaikai,America,NEXCO,sado,ZEON,kagawa,Oborozuki |
 
 ## KURIMOCHI国　国王
 　　　　riku1059様
