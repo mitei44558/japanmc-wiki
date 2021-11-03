@@ -1,4 +1,4 @@
-# 仙台藩(SENDAI-HAN)
+# 仙台藩(SENDAI_HAN)
 
 ## 詳細
 |||
