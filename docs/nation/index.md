@@ -14,3 +14,4 @@ title: 国一覧
 | [5757TEIKOKU](/nation/5757TEIKOKU)         | アットホームな帝国です(?)      |
 | [NEXCO](/nation/NEXCO)                     | 高速道路を建設します           |
 | [KURIMOCHI](/nation/KURIMOCHI)             | 入ったらハッピーになれる       |
+| [SENDAI_HAN](/nation/SENDAI_HAN)           | 特に言うことはないです       |
