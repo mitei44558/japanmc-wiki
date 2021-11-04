@@ -5,15 +5,15 @@
 |-|-|
 |  人口  | 18人   |
 |  首都  | KURIMOCHI|
-|  国土面積 | 185チャンク|
-|  同盟国 | hokkaido,setonaikai,America,NEXCO,sado,ZEON,kagawa,Oborozuki |
+|  国土面積 | 261チャンク(町も含む)|
+|  同盟国 | hokkaido,setonaikai,America,NEXCO,sado,kagawa,Oborozuki |
 
 ## KURIMOCHI国　内閣
 |||
 |-|-|
-|大統領 | riku1059|
-|官房長官| yushimaz |
-|副官房長官| _ATRIIIA_ |
+|国王 | riku1059|
+|No.2| yushimaz |
+|No.3| _ATRIIIA_ |
 |未定||
 
 ## 国の傘下になる利点
