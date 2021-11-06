@@ -21,8 +21,8 @@ Hiroseries
 ### 加盟都市
 |||
 |-|-|
-| 都市名        | 自己紹介 |
-| Sendai | 首都です
-| Tera Town     |　土地はあるけど何もありません|
+| 都市名        | 自己紹介 | 市長 |
+| Sendai | 首都です | HiroSeries |
+| Tera Town     |　土地はあるけど何もありません | bb126h |
 
 
