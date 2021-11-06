@@ -9,7 +9,7 @@
 | 同盟国 | Empire of INMU(淫夢帝国) |
 
 ## 国家主席
-Hiroseries
+HiroSeries
 
 ## 基本方針
 税金  
