@@ -23,6 +23,6 @@ Hiroseries
 |-|-|
 | 都市名        | 自己紹介 |
 | Sendai | 首都です
-| Tera Town     |　|
+| Tera Town     |　土地はあるけど何もありません|
 
 
