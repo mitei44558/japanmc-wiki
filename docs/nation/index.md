@@ -14,5 +14,5 @@ title: 国一覧
 | [5757TEIKOKU](/nation/5757TEIKOKU)         | アットホームな帝国です(?)      |
 | [NEXCO](/nation/NEXCO)                     | 高速道路を建設します           |
 | [KURIMOCHI](/nation/KURIMOCHI)             | 入ったらハッピーになれる       |
-| [SENDAI_HAN](/nation/SENDAI_HAN)           | 特に言うことはないです       |
+| [devette](/nation/SENDAI_HAN)           | 旧仙台藩です       |
 | [多禰連邦国](/nation/Federation_Amatanei)     | 多数からなる島々の連邦国です。 |
