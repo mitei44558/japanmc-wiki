@@ -9,7 +9,7 @@
 | 同盟国 | Empire of INMU(淫夢帝国) |
 
 ## 国家主席
-Hiroseries
+HiroSeries
 
 ## 基本方針
 税金  
@@ -21,8 +21,8 @@ Hiroseries
 ### 加盟都市
 |||
 |-|-|
-| 都市名        | 自己紹介 |
-| Sendai | 首都です
-| Tera Town     |　|
+| 都市名        | 自己紹介 | 市長 |
+| Sendai | 首都です | HiroSeries |
+| TeraTown     |　土地はあるけど何もありません | bb126h |
 
 
