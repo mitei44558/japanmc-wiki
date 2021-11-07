@@ -16,3 +16,4 @@ title: 国一覧
 | [KURIMOCHI](/nation/KURIMOCHI)             | 入ったらハッピーになれる       |
 | [SENDAI_HAN](/nation/SENDAI_HAN)           | 特に言うことはないです       |
 | [多禰連邦国](/nation/Federation_Amatanei)     | 多数からなる島々の連邦国です。 |
+| [SADO](/nation/SADO)     | 自由に暮らせる国 |
