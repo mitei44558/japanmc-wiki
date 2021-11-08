@@ -1,4 +1,4 @@
-# 仙台藩(SENDAI_HAN)
+# devette(デベット)
 
 ## 詳細
 |||
@@ -6,7 +6,9 @@
 |   人口   | 4ぐらい(2021.10.31) |
 |   首都   | 仙台(SENDAI) |
 | 加盟都市 | 2都市(2021.10.31) |
-| 同盟国 | Empire of INMU(淫夢帝国) |
+| 同盟国 | Empire of INMU(淫夢帝国), republic of hokkaido(北海道連邦共和国) |
+
+2021/11/7をもって国号を仙台藩からdevetteに改めました
 
 ## 国家主席
 HiroSeries
